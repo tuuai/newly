@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "newly"
+  site-url: "https://tuuai.github.io/newly"
+  description: "AI models and applications from tuu.ai"
+  repo-branch: main
+  repo-url: "https://github.com/tuuai/newly"
